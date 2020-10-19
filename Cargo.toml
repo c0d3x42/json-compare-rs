@@ -1,9 +1,12 @@
 [package]
 name = "json-compare"
-version = "0.0.1"
+version = "0.0.1-pre"
 authors = ["Marvin Davieds <marvin.davieds@gmail.com>","Vince <c0d3x42@gmail.com>"]
 edition = "2018"
 license = "MIT"
+homepage = "https://github.com/c0d3x42/json-compare-rs"
+repository = "https://github.com/c0d3x42/json-compare-rs"
+description = "JSON comparison"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
