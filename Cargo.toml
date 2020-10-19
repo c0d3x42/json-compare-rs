@@ -1,6 +1,6 @@
 [package]
 name = "json-compare"
-version = "0.0.1-pre"
+version = "0.0.1"
 authors = ["Marvin Davieds <marvin.davieds@gmail.com>","Vince <c0d3x42@gmail.com>"]
 edition = "2018"
 license = "MIT"
